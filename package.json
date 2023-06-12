@@ -40,6 +40,8 @@
     "DmitryDorofeev.empty-indent",
     "eamodio.gitlens",
     "neilbrayfield.php-docblocker",
-    "ChakrounAnas.turbo-console-log"
+    "ChakrounAnas.turbo-console-log",
+    "andrewdavidblum.drupal-smart-snippets",
+    "marcostazi.VS-code-drupal"
   ]
 }
