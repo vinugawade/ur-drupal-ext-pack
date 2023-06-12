@@ -1,11 +1,12 @@
 {
   "name": "ur-drupal-ext-pack",
-  "displayName": "UR Drupal Extension Pack",
+  "displayName": "UR Drupal Development Extension Pack",
   "description": "Collection of useful VSCode extensions to help in Drupal based project development.",
   "version": "1.0.0",
   "publisher": "UR-Services",
   "license": "GNU General Public License",
-  "icon": "logo.png",
+  "icon": "assets/images/druplicon-deadpool.png",
+  "keywords": ["civicrm", "cms", "twig", "drupal", "php", "development", "yaml", "ur-cache-cleaner", "phpcs", "composer", "commerce", "debug"],
   "author": {
     "name": "Vinay Gawade"
   },
@@ -13,10 +14,10 @@
     "type": "git",
     "url": "https://github.com/vinugawade/ur-drupal-ext-pack.git"
   },
-  "qna": "https://github.com/vinugawade/ur-drupal-ext-pack/issues",
   "bugs": {
     "url": "https://github.com/vinugawade/ur-drupal-ext-pack/issues"
   },
+  "homepage": "https://github.com/vinugawade/ur-drupal-ext-pack/blob/master/README.md",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -24,6 +25,21 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "publisher.extensionName"
+    "UR-Services.ur-cache-cleaner",
+    "redhat.vscode-yaml",
+    "whatwedo.twig",
+    "mblode.twig-language-2",
+    "DEVSENSE.composer-php-vscode",
+    "aaron-bond.better-comments",
+    "viablelab.bracket-padder",
+    "DavidAnson.vscode-markdownlint",
+    "persoderlind.vscode-phpcbf",
+    "shevaua.phpcs",
+    "SimonSiefke.svg-preview",
+    "BriteSnow.vscode-toggle-quotes",
+    "DmitryDorofeev.empty-indent",
+    "eamodio.gitlens",
+    "neilbrayfield.php-docblocker",
+    "ChakrounAnas.turbo-console-log"
   ]
 }
