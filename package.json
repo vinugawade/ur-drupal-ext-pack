@@ -1,0 +1,29 @@
+{
+  "name": "ur-drupal-ext-pack",
+  "displayName": "UR Drupal Extension Pack",
+  "description": "Collection of useful VSCode extensions to help in Drupal based project development.",
+  "version": "1.0.0",
+  "publisher": "UR-Services",
+  "license": "GNU General Public License",
+  "icon": "logo.png",
+  "author": {
+    "name": "Vinay Gawade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinugawade/ur-drupal-ext-pack.git"
+  },
+  "qna": "https://github.com/vinugawade/ur-drupal-ext-pack/issues",
+  "bugs": {
+    "url": "https://github.com/vinugawade/ur-drupal-ext-pack/issues"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "publisher.extensionName"
+  ]
+}
