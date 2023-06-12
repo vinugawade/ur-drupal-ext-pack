@@ -2,4 +2,4 @@
 
 ## 1.0.0 :-
 
-- Initial set of useful extensions for drupal developement.
+- Initial set of useful extensions for drupal development.
