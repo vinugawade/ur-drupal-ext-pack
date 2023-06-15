@@ -2,7 +2,7 @@
   "name": "ur-drupal-ext-pack",
   "displayName": "UR Drupal Development Extension Pack",
   "description": "Collection of useful VSCode extensions to help in Drupal based project development.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "UR-Services",
   "license": "GNU General Public License",
   "icon": "assets/images/druplicon-deadpool.png",

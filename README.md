@@ -55,7 +55,7 @@ Built with 💛 by [Vinay Gawade](https://github.com/vinugawade).
 
 ## Credits ✨
 
-- Logo from [Druplicon](druplicon.org).
+- Logo from [Druplicon](https://druplicon.org).
 
 ---
 
@@ -64,4 +64,3 @@ Built with 💛 by [Vinay Gawade](https://github.com/vinugawade).
 Check [here](LICENSE).
 
 ![LICENSE](https://img.shields.io/github/license/vinugawade/ur-drupal-ext-pack?style=flat-square)
-
