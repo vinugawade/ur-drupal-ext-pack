@@ -9,35 +9,35 @@
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/vinugawade/ur-drupal-ext-pack?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/vinugawade/ur-drupal-ext-pack?color=yellow&style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/vinugawade/ur-drupal-ext-pack?color=white&style=flat-square)
 
-## Looking for useful extensions to enhance your Drupal development experience in VSCode?
+## Looking for useful extensions to enhance your drupal development experience in VSCode?
 
 > Look no further! We have compiled a collection of extensions that will make your life easier.
 
-- These extensions are designed to boost your productivity and efficiency, and provide additional functionality to help streamline your Drupal workflow.
+- These extensions are designed to boost your productivity and efficiency, providing additional functionality to streamline your Drupal workflow.
 
 - If you're a Drupal developer working with VSCode, we've got a collection of extensions to simplify your workflow. Our selection of extensions is designed to make your life easier and help you get more done in less time.
 
-- With our extensions, you can boost your productivity and efficiency and streamline your Drupal workflow. These tools provide additional functionality to help you write code faster, catch errors quickly, and debug with ease.
+- With our extensions, you can boost your productivity and efficiency, and streamline your Drupal workflow. These tools provide additional functionality to help you write code faster, catch errors quickly, and debug with ease.
 
-> Our Drupal Development Extensions Pack for VSCode are a must-have for any serious Drupal developer looking to take their coding game to the next level. Install our extensions today and start coding like a pro👨🏻‍💻✨!
+> Our Drupal Development Extensions Pack for VSCode is a must-have for any serious Drupal developer looking to take their coding game to the next level. Install our extensions today and start coding like a pro👨🏻‍💻✨!
 
 ---
 
 ## Requirements ✨
 
-- Install [Drush Launcher](https://github.com/drush-ops/drush-launcher) on your system.
+- **Drush Launcher**: Make sure to install [Drush Launcher](https://github.com/drush-ops/drush-launcher) on your system.
 
 ---
 
 ## Changelog ✨
 
-See [CHANGELOG.md](CHANGELOG.md).
+See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 ---
 
 ## Contributors ✨
 
-Feel free to contribute in our [repository](https://github.com/vinugawade/ur-drupal-ext-pack).
+Feel free to contribute to our [repository](https://github.com/vinugawade/ur-drupal-ext-pack).
 
 ---
 
@@ -61,6 +61,6 @@ Built with 💛 by [Vinay Gawade](https://github.com/vinugawade).
 
 ## License
 
-Check [here](LICENSE).
+Check the [LICENSE](LICENSE) file for more details.
 
 ![LICENSE](https://img.shields.io/github/license/vinugawade/ur-drupal-ext-pack?style=flat-square)
