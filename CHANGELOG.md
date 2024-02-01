@@ -2,7 +2,7 @@
 
 ## Version 1.2.2
 
-- Fixed build error
+- Fixed build error.
 
 ## Version 1.2.1
 
