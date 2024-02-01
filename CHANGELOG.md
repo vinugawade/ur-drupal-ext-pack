@@ -1,5 +1,9 @@
 # Change Log
 
+## Version 1.2.2
+
+- Fixed build error
+
 ## Version 1.2.1
 
 - **Updated License Terms:**
