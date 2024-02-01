@@ -2,7 +2,7 @@
   "name": "ur-drupal-ext-pack",
   "displayName": "UR Drupal Development Extension Pack",
   "description": "Enhance your Drupal-based project development experience with this comprehensive collection of indispensable VSCode extensions. Accelerate your workflow and streamline your coding process with these powerful tools designed specifically for Drupal development.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "UR-Services",
   "license": "GNU General Public License",
   "icon": "assets/images/druplicon-deadpool.png",
@@ -43,6 +43,6 @@
     "ChakrounAnas.turbo-console-log",
     "andrewdavidblum.drupal-smart-snippets",
     "marcostazi.VS-code-drupal",
-    "PKief.material-product-icons"
+    "mrorz.language-gettext"
   ]
 }
