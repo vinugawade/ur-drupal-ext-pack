@@ -1,15 +1,24 @@
 # Change Log
 
-## v1.0.0
+## Version 1.2.1
 
-- Initial release of the Drupal Development Extension Pack.
-- Includes a set of useful extensions for Drupal development.
+- **Updated License Terms:**
+  - Added copyright information for the year 2024 and acknowledgment of Vinay Gawade.
 
-## v1.0.1
+- **Enhancements in package.json:**
+  - Removed the "PKief.material-product-icon" package.
+  - Included the "mrorz.language-gettext" package.
 
-- Updated the readme file with additional details and information.
+## Version 1.2.0
 
-## v1.2.0
+- Added new extensions for previewing HTML and Markdown files.
+- Improved user experience with new icons and enhancements.
 
-- Added new extensions to support the preview of HTML and Markdown files.
-- Included new icons and other enhancements to improve the overall user experience.
+## Version 1.0.1
+
+- Updated the readme file to provide additional details and information.
+
+## Version 1.0.0
+
+- Released the initial version of the Drupal Development Extension Pack.
+- Packed with essential extensions for Drupal development.
